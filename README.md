@@ -1,8 +1,8 @@
-# teste_02
+## Paula_Flutter_TFLite
 
 A new Flutter project.
 
-## Getting Started
+## Getting Startedz
 
 This project is a starting point for a Flutter application.
 
